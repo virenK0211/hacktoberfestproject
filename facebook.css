@@ -1,0 +1,51 @@
+body{
+    background-color: whitesmoke;
+}
+.form{
+
+text-align: center;
+}
+h1{
+    color: blue;
+    font-size: 40px;
+}
+.h{
+    font-size: 20px;
+}
+.form1{
+    background-color: white;
+    width: 25rem;
+    margin-left: 36%;
+    border-radius: 10px;
+}
+input{
+    width: 20rem;
+    height: 3rem;
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 15px;
+    
+}
+.login button{
+    background-color: blue;
+    color: white;
+    width: 20rem;
+    height: 3rem;
+    border-radius: 7px;
+    border-style: none;
+    font-size: 20px;
+}
+.link a{
+    color: blue;
+    text-decoration: none;
+}
+.create button{
+    background-color: green;
+    color: white;
+    width: 15rem;
+    height: 3rem;
+    border-radius: 7px;
+    border-style: none;
+    font-size: 20px;
+}
